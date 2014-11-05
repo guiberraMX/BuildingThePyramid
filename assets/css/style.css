@@ -10,7 +10,7 @@
 
 
 body {
-    background: #f8f8f8 url(../img/pattern.jpg);
+    background: #22201D;
     text-align: left;
     font-family: 'Lato', Arial, sans-serif;
     color: #555;
@@ -137,10 +137,10 @@ a:hover { text-decoration: none; }
 .subscribe h3 {
     font-size: 32px;
     font-weight: 400;
-    color: #4d4d4d;
+    color: #fff;
     line-height: 40px;
     text-transform: uppercase;
-    text-shadow: 1px 2px 1px #fff;
+    
 }
 
 .subscribe p {
