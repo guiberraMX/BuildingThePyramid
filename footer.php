@@ -4,14 +4,14 @@
 	<div class="pull-left">
 	<form class="navbar-form navbar-left newsletter" role="search">
         <div class="form-group">
-          <input type="text" class="form-control" placeholder="Enter Your Email Id Here">
+          <input type="text" class="form-control" placeholder="e-mail">
         </div>
-        <button type="submit" class="btn btn-inverse">Subscribe</button>
+        <button type="submit" class="btn btn-inverse">Suscríbete</button>
     </form>
     <div class="links">
-    	<a href="about.php">About </a>    	
-    	<a href="terms.php">Terms & Condition </a>
-    	<a href="contact.php">Contact </a>
+    	<a href="about.php">Únete</a>    	
+    	<a href="terms.php">Colaboradores</a>
+    	<a href="contact.php">Términos y condiciones</a>
     </div>
     </div>
 

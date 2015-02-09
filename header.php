@@ -50,7 +50,8 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
       
-      <ul class="nav navbar-nav">        
+      <!-- Collect the nav links, forms, and other content for tog
+       <ul class="nav navbar-nav">        
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Collections <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
@@ -61,6 +62,14 @@
         </li>
         <li><a href="lookbook.php">Look book</a></li>
         <li><a href="checkout.php">checkout</a></li>
+      </ul>
+
+      gling -->
+
+      <ul class="nav navbar-nav">        
+        <li><a href="lookbook.php">The Project</a></li>
+        <li><a href="lookbook.php">Colaboradores</a></li>
+        <li><a href="checkout.php">Blog</a></li>
       </ul>
       
       <form class="navbar-form navbar-left searchbar" role="search">
