@@ -3,7 +3,6 @@
 
 
 	<div class="content inside-page product-details">
-	<div class="breadcrumb"><a href="index.php">Home</a> / <a href="collections.php">Collections</a> / White v-neck shirt for men</div>	
 	<div class="row">
 		<div class="col-sm-5">
 			<div id="ProductCarousel" class="carousel slide" data-ride="carousel">
@@ -18,24 +17,27 @@
 			</div>
 		</div>
 		<div class="col-sm-6 col-sm-offset-1 information">
-			<h1>White v-neck shirt for men</h1>
-			<div class="price"><span>$121.22</span> <b>$110.00</b></div>
+			<h1>Frase impactante sobre las piezas de la pirámide</h1>
+			
 			<div class="clearfix">
-				<div class="pull-left"><input class="form-control quantity" placeholder="Quantity" type="number"></div>
-				<div class="pull-right"><a href="checkout.php" class="btn btn-danger"><i class="fa fa-shopping-cart"></i> Add to Cart</a></div>
+				
+				<div class="pull-right"><a href="checkout.php" class="btn btn-danger"><i class="fa fa-shopping-cart"></i>Comparte la historia</a></div>
 			</div>
 
 			<div class="description-tabs">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-				<li class="active"><a href="#description" role="tab" data-toggle="tab">Description</a></li>
-				<li><a href="#review" role="tab" data-toggle="tab">Review (3)</a></li>
+				<li class="active"><a href="#description" role="tab" data-toggle="tab">Nuestros amigos</a></li>
+				<li><a href="#review" role="tab" data-toggle="tab">Únete al proyecto</a></li>
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 				<div class="tab-pane active" id="description">
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor tellus, tempor ut ultrices ferme ntum, aliquam consequat metus. In vel turpis dolorin dapibus dui. Aenean at auctor neque. Lorem ipsum dolor sit , consectetur elit. Fusce dolor tellus, tempor ut ultrices fermentum, aliquam consequat metus. In vel turpis dolor, in dapibus dui. Aenean at auctor neque.
+                            <br>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor tellus, tempor ut ultrices ferme adipiscing elit. Fusce dolor tellus, tempor ut ultrices ferme.
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor tellus, tempor ut ultrices ferme adipiscing elit. 
 				</div>
 				<div class="tab-pane" id="review">
 				

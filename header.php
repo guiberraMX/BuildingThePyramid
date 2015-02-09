@@ -68,7 +68,7 @@
 
       <ul class="nav navbar-nav">        
         <li><a href="lookbook.php">The Project</a></li>
-        <li><a href="lookbook.php">Colaboradores</a></li>
+        <li><a href="product.php">Colaboradores</a></li>
         <li><a href="checkout.php">Blog</a></li>
       </ul>
       
