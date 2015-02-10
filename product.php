@@ -45,28 +45,36 @@
 				<div class="tab-pane" id="review">
 				
 					<div class="reviews">
-					<h5>John Smith</h5>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor tellus, tempor ut ultrices ferme ntum, aliquam consequat metus.</p>
+					<h5>Lo principal que necesitamos</h5>
+					<p>Aquí va una descripción parcial de las necesidades del proyecto y las formas en las que puede particiñar cualquiera. 
+                                   Detalles de diversos puntos en los que solicitamos apoyo o sugerimos un intercambio o colaboración.</p>
 					</div>
 
 					<div class="reviews">
-					<h5>John Smith</h5>
-					<p>In vel turpis dolorin dapibus dui. Aenean at auctor neque. Lorem ipsum dolor sit , consectetur elit. Fusce dolor tellus, tempor ut ultrices fermentum, aliquam consequat metus. In vel turpis dolor, in dapibus dui. Aenean at auctor neque. </p>
+					<h5>Conoce todo el proyecto</h5>
+					<p>Aquí una introducción a la wiki que explique todo el proyecto. Aquí la información ya debe tener la información de *necesidades del proyecto.</p>
+                                   <br>
+                                   <p>Quiéres unirte al proyecto?</p>
 					</div>
 
-				<textarea class="form-control" rows="3" >Write review here</textarea>
-				<a href="#" class="btn btn-primary">Post Review</a>
+				<textarea class="form-control" rows="3" >Hablanos de tí</textarea>
+				<a href="#" class="btn btn-primary">Enviar</a>
 				</div>
 				</div>
 			</div>
 
-
+<!-- Tab pa
 
 			<div class="clearfix">
 				<a href="#" class="btn btn-primary"><i class="fa fa-heart"></i> Wishlist</a>
 				<a href="#" class="btn btn-primary"><i class="fa fa-exchange"></i> Compare</a>
 				<a href="#" class="btn btn-primary"><i class="fa fa-envelope"></i> Send an Email</a>				
 			</div>
+
+
+                     nes -->
+
+                     
 		</div>
 	</div>
 

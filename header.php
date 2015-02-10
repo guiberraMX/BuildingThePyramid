@@ -69,7 +69,7 @@
       <ul class="nav navbar-nav">        
         <li><a href="lookbook.php">The Project</a></li>
         <li><a href="product.php">Colaboradores</a></li>
-        <li><a href="checkout.php">Blog</a></li>
+        <li><a href="http://blog.pyramidproject.mx/">Blog</a></li>
       </ul>
       
       <form class="navbar-form navbar-left searchbar" role="search">
