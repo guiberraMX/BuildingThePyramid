@@ -7,13 +7,13 @@
 		<div class="col-sm-5">
 			<div id="ProductCarousel" class="carousel slide" data-ride="carousel">
 			<div class="carousel-inner">
-				<div class="item active"><img src="images/products/1.jpg" class="img-responsive" alt="product"></div>
-				<div class="item"><img src="images/products/7.jpg"  class="img-responsive" alt="product"></div>
-				<div class="item"><img src="images/products/2.jpg"  class="img-responsive" alt="product"></div>
+				<div class="item active"><img src="images/products/daze.png" class="img-responsive" alt="product"></div>
+				<div class="item"><img src="images/products/kubrick.png"  class="img-responsive" alt="product"></div>
+				<div class="item"><img src="images/products/"  class="img-responsive" alt="product"></div>
 			</div>
 			<!-- Controls -->
-			<a class="left carousel-control" href="#ProductCarousel" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
-			<a class="right carousel-control" href="#ProductCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
+			<a class="left carousel-control" href="#ProductCarousel" role="button" data-slide="prev"></a>
+			<a class="right carousel-control" href="#ProductCarousel" role="button" data-slide="next"></i></a>
 			</div>
 		</div>
 		<div class="col-sm-6 col-sm-offset-1 information">
@@ -21,7 +21,7 @@
 			
 			<div class="clearfix">
 				
-				<div class="pull-right"><a href="checkout.php" class="btn btn-danger"><i class="fa fa-shopping-cart"></i>Comparte la historia</a></div>
+				<div class="pull-right"><a href="checkout.php" class="btn btn-danger">Comparte la historia</a></div>
 			</div>
 
 			<div class="description-tabs">
@@ -37,6 +37,9 @@
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor tellus, tempor ut ultrices ferme ntum, aliquam consequat metus. In vel turpis dolorin dapibus dui. Aenean at auctor neque. Lorem ipsum dolor sit , consectetur elit. Fusce dolor tellus, tempor ut ultrices fermentum, aliquam consequat metus. In vel turpis dolor, in dapibus dui. Aenean at auctor neque.
                             <br>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor tellus, tempor ut ultrices ferme adipiscing elit. Fusce dolor tellus, tempor ut ultrices ferme.
+                            <br>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor tellus, tempor ut ultrices ferme adipiscing elit. Fusce dolor tellus, tempor ut ultrices ferme.
+                            <br>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor tellus, tempor ut ultrices ferme adipiscing elit. 
 				</div>
 				<div class="tab-pane" id="review">
@@ -69,20 +72,20 @@
 
 
 	<div class="related-products">
-	<h4>Related Products</h4>
+	
 	<div class="row">	
 
        			<!-- product -->
        			<div class="col-sm-3 col-xs-6">
                             <div class="product">
        				<a href="#">
-       				<img src="images/products/2.jpg" class="img-responsive" alt="product">
-       				<span class="price special">$113.63</span>       				
+       				<img src="images/products/804.png" class="img-responsive" alt="product">
+       				     				
        				</a>
        				
        				<div class="overlay">
        				<div class="detail">
-       					<h4><a href="#">Mollicitudin Lobortis</a></h4>
+       					<h4><a href="#">Studio 803</a></h4>
        					<p class="hidden-xs">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
        					<a href="product.php" class="btn btn-default view animated fadeInLeft"><i class="fa fa-search-plus"></i></a>
        					<a href="#" class="btn btn-default cart animated fadeInRight"><i class="fa fa-shopping-cart"></i></a>
@@ -96,13 +99,13 @@
        			<div class="col-sm-3 col-xs-6">
                             <div class="product">
                                    <a href="#">
-                                   <img src="images/products/3.jpg" class="img-responsive" alt="product"> 
-                                   <span class="price special">$113.63</span>                                   
+                                   <img src="images/products/incomp.jpg" class="img-responsive" alt="product"> 
+                                                                   
                                    </a>
                                    
                                    <div class="overlay">
                                    <div class="detail">
-                                          <h4><a href="#">Mollicitudin Lobortis</a></h4>
+                                          <h4><a href="#">Incompusmentus</a></h4>
                                           <p class="hidden-xs">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                           <a href="product.php" class="btn btn-default view animated fadeInLeft"><i class="fa fa-search-plus"></i></a>
                                           <a href="#" class="btn btn-default cart animated fadeInRight"><i class="fa fa-shopping-cart"></i></a>
@@ -116,13 +119,13 @@
        			<div class="col-sm-3 col-xs-6">
                             <div class="product">
                                    <a href="#">
-                                   <img src="images/products/6.jpg" class="img-responsive" alt="product">
-                                   <span class="price special">$113.63</span>                                   
+                                   <img src="images/products/assyrian.png" class="img-responsive" alt="product">
+                                                                     
                                    </a>
                                    
                                    <div class="overlay">
                                    <div class="detail">
-                                          <h4><a href="#">Mollicitudin Lobortis</a></h4>
+                                          <h4><a href="#">Assyrian</a></h4>
                                           <p class="hidden-xs">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                           <a href="product.php" class="btn btn-default view animated fadeInLeft"><i class="fa fa-search-plus"></i></a>
                                           <a href="#" class="btn btn-default cart animated fadeInRight"><i class="fa fa-shopping-cart"></i></a>
@@ -136,13 +139,13 @@
        			<div class="col-sm-3 col-xs-6">
                             <div class="product">
                                    <a href="#">
-                                   <img src="images/products/4.jpg" class="img-responsive" alt="product">
-                                   <span class="price special">$113.63</span>                                   
+                                   <img src="images/products/tu.png" class="img-responsive" alt="product">
+                                                                      
                                    </a>
                                    
                                    <div class="overlay">
                                    <div class="detail">
-                                          <h4><a href="#">Mollicitudin Lobortis</a></h4>
+                                          <h4><a href="#">Únete</a></h4>
                                           <p class="hidden-xs">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                           <a href="product.php" class="btn btn-default view animated fadeInLeft"><i class="fa fa-search-plus"></i></a>
                                           <a href="#" class="btn btn-default cart animated fadeInRight"><i class="fa fa-shopping-cart"></i></a>

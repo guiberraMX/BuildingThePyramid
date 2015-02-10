@@ -17,8 +17,8 @@ a{color: #333;}
 .btn-inverse:hover{color: #ccc;border:1px solid #666;background:#333;}
 .btn-primary{border:1px solid #333;color: #000; background:none; }
 .btn-primary:hover{background:#333;border:1px solid #333; color: #fff; }
-.btn-danger{border:1px solid #ea006e; background:#ea006e;color: #fff;}
-.btn-danger:hover{border:1px solid #ea006e; background:#ea006e;color: #fff;}
+.btn-danger{border:1px solid #4E4762; background:#404059;color: #fff;}
+.btn-danger:hover{border:1px solid #5A6387; background:#485478;color: #fff;}
 
 .center{text-align: center;}
 
