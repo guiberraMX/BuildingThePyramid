@@ -3,9 +3,9 @@
 
 <!-- form -->
 <div class="content inside-page terms">
-       <div class="breadcrumb"><a href="index.php">Home</a> / Terms & Condition</div>
+       
 
-       <h2 class="title">Terms & Condition</h2>
+       <h2 class="title">Terminos y Condiciones</h2>
 
        <div class="row">
        <div class="col-sm-8 col-sm-offset-2">

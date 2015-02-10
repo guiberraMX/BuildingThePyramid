@@ -9,9 +9,9 @@
         <button type="submit" class="btn btn-inverse">Suscríbete</button>
     </form>
     <div class="links">
-    	<a href="about.php">Únete</a>    	
-    	<a href="terms.php">Colaboradores</a>
-    	<a href="contact.php">Términos y condiciones</a>
+    	<a href="#">Únete</a>    	
+    	<a href="product.php">Colaboradores</a>
+    	<a href="terms.php">Términos y condiciones</a>
     </div>
     </div>
 
